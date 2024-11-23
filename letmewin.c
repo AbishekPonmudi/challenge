@@ -16,8 +16,10 @@ int main(int argc, char* argv[], char* envp[]) {
     len = read(fd, buf, 32);
 
     if (!strcmp("LETMEWIN\n", buf)) {
+	     // you may think this is the flag, yes, but the motive is not getting the flag you need to find out the concept to print this out.
         printf("good job :)\n");
-        printf("yes ! you are proved that Hacker\n"); // you may think this is the>        exit(0);
+	    
+        printf("yes ! you are proved that Hacker\n"); 
     }
 	else{
 
