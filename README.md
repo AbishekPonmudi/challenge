@@ -5,4 +5,4 @@ you can find the code and the complied version, do reverse with this code and fi
 
 ## NOTE : If you need to know, how to complete this, Please be honest and check this answer from here after the several tries ! 
 
-https://www.notion.so/Hello-friend-Welcome-here-147e1d3764a1805cb3bdc0510ff9a5de
+https://midi-fox-ef1.notion.site/Hello-friend-Welcome-here-147e1d3764a1805cb3bdc0510ff9a5de#147e1d3764a180d6ab62ed2bd5dabb3f
